@@ -27,9 +27,11 @@
 
 - **Embedded Systems**
   - **Designed and developed** platform integration for software (SaaP), enabling unified cross-team testability and debugging.
-  - **Configured and integrated** core AUTOSAR stack (RTE, OS, COM) and Vector SIPs, ensuring target system alignment to mimic customer requirements.
+  - **Configured and integrated** core AUTOSAR stack (RTE, OS, COM, CanNM, CryptoStack) and Vector SIPs, ensuring target system alignment to mimic customer requirements.
   - **Developed and validated** UWB based connectivity applications compliant with **CCC (Car Connectivity Consortium)** standards.
   - **Provided on-site technical support** during system integration with Tier 1 partner (Alps Alpine), resolving software issues in real-time and coordinating defect tracking.
+  - Configured and integrated **CycurHSM** to develop the Digital Key Management feature, improving secure key storage and lifecycle management for embedded devices
+  - Possess working knowledge of Flash Bootloader and Secure Boot concepts, including firmware validation and secure startup processes
 
 - **SDV Architecture & Technical Leadership**
   - **Technical lead** for internal **Software-Defined Vehicle (SDV)** initiatives with a team of 8 engineers, defining cross-platform architecture and tech stacks on Linux.
